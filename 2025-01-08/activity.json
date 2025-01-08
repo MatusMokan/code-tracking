@@ -1,0 +1,61 @@
+{
+  "date": "2025-01-08",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 31,
+      "totalLinesRemoved": 8,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/School/4rocnik/UPB/Fiverr/file2.txt": [
+          {
+            "timestamp": "2025-01-08T05:26:29.254Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/file2.txt",
+            "fileType": ".txt",
+            "linesAdded": 31,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-08T05:26:32.829Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/file2.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 1
+      },
+      "changeFrequency": {
+        "6": 1
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/UPB/Fiverr/file2.txt"
+      ],
+      "averageChangeSize": 19.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    6
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
