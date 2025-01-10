@@ -1,0 +1,78 @@
+{
+  "date": "2025-01-10",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 23,
+      "totalLinesRemoved": 16,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/moky/School/4rocnik/UPB/Fiverr/file1.txt": [
+          {
+            "timestamp": "2025-01-10T08:44:03.215Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/file1.txt",
+            "fileType": ".txt",
+            "linesAdded": 23,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-01-10T08:44:03.872Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/file1.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ],
+        "/Users/moky/School/4rocnik/UPB/Fiverr/file2.txt": [
+          {
+            "timestamp": "2025-01-10T08:44:15.882Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/file2.txt",
+            "fileType": ".txt",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 2
+      },
+      "changeFrequency": {
+        "9": 2
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/UPB/Fiverr/file1.txt",
+        "/Users/moky/School/4rocnik/UPB/Fiverr/file2.txt"
+      ],
+      "averageChangeSize": 13
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
