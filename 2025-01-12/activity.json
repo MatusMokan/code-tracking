@@ -2,9 +2,9 @@
   "date": "2025-01-12",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 343,
-      "totalLinesRemoved": 4,
-      "totalActiveTime": 8,
+      "totalLinesAdded": 344,
+      "totalLinesRemoved": 5,
+      "totalActiveTime": 10,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints.py": [
           {
@@ -203,6 +203,34 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-12T18:54:18.582Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train_finger.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-01-12T18:55:25.574Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train_finger.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
