@@ -1,0 +1,47 @@
+{
+  "date": "2025-01-21",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 51,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/configuration_drive.txt": [
+          {
+            "timestamp": "2025-01-21T20:32:26.262Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/configuration_drive.txt",
+            "fileType": ".txt",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          }
+        ]
+      },
+      "languageStats": {
+        "txt": 0
+      },
+      "changeFrequency": {
+        "21": 0
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/configuration_drive.txt"
+      ],
+      "averageChangeSize": 51
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "txt"
+  ]
+}
