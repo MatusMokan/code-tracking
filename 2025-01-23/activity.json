@@ -1,0 +1,47 @@
+{
+  "date": "2025-01-23",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 81,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/lib/pre_processing.py": [
+          {
+            "timestamp": "2025-01-22T23:36:54.116Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/lib/pre_processing.py",
+            "fileType": ".py",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "0": 0
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/lib/pre_processing.py"
+      ],
+      "averageChangeSize": 81
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    0
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
