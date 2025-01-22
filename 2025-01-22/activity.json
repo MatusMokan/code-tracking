@@ -2,7 +2,7 @@
   "date": "2025-01-22",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 239,
+      "totalLinesAdded": 337,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -28,6 +28,22 @@
             "fileName": "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/prepare_dataset_RIDB.py",
             "fileType": ".py",
             "linesAdded": 186,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints.py": [
+          {
+            "timestamp": "2025-01-22T22:08:44.917Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints.py",
+            "fileType": ".py",
+            "linesAdded": 98,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
