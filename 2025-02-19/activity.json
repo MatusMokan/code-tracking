@@ -1,0 +1,47 @@
+{
+  "date": "2025-02-19",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 1,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/results/checkpoint-24/config.json": [
+          {
+            "timestamp": "2025-02-18T22:47:17.288Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/results/checkpoint-24/config.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 1
+      },
+      "changeFrequency": {
+        "23": 1
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/results/checkpoint-24/config.json"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
