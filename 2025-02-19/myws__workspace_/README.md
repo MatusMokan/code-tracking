@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1473                                          |
-| **Lines Removed** (➖) | 430                                        |
-| **Net Change** (↕)    | 1043                |
-| **Active Time** (⌚)   | 55 minutes |
+| **Lines Added** (➕)   | 1481                                          |
+| **Lines Removed** (➖) | 439                                        |
+| **Net Change** (↕)    | 1042                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
@@ -15,7 +15,7 @@
 - **settings.json** (+1, -0)
 - **vit_reco copy.py** (+376, -211)
 - **train.py** (+130, -131)
-- **vit_reco_2.py** (+490, -88)
+- **vit_reco_2.py** (+498, -97)
 - **vit_reco.py** (+3, -0)
 - **trainer_state.json** (+472, -0)
 
@@ -27,7 +27,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 474
-".py" : 1429
+".py" : 1446
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -38,8 +38,8 @@ title Coding activity by hour (count of changes)
 "09h" : 1
 "21h" : 8
 "22h" : 34
-"23h" : 6
+"23h" : 10
 ```
 
 
-> **Last Updated:** 19/02/2025, 23:19:19
+> **Last Updated:** 19/02/2025, 23:24:19
