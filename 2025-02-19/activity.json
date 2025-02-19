@@ -2,7 +2,7 @@
   "date": "2025-02-19",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1,
+      "totalLinesAdded": 2,
       "totalLinesRemoved": 0,
       "totalActiveTime": 1,
       "files": {
@@ -19,6 +19,22 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-02-19T08:42:36.270Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "json"
           }
         ]
