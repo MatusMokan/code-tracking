@@ -2,7 +2,7 @@
   "date": "2025-02-19",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 845,
+      "totalLinesAdded": 1317,
       "totalLinesRemoved": 430,
       "totalActiveTime": 50,
       "files": {
@@ -632,6 +632,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/results/checkpoint-330/trainer_state.json": [
+          {
+            "timestamp": "2025-02-19T22:04:44.091Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/results/checkpoint-330/trainer_state.json",
+            "fileType": ".json",
+            "linesAdded": 472,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
