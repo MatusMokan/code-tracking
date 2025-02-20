@@ -1,0 +1,75 @@
+{
+  "date": "2025-02-20",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py": [
+          {
+            "timestamp": "2025-02-20T13:36:15.018Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-20T13:36:30.853Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-20T13:36:41.655Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "14": 2
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py"
+      ],
+      "averageChangeSize": 1.3333333333333333
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
