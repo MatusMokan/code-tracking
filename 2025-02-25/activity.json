@@ -2,7 +2,7 @@
   "date": "2025-02-25",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 3,
+      "totalLinesAdded": 94,
       "totalLinesRemoved": 0,
       "totalActiveTime": 2,
       "files": {
@@ -48,6 +48,22 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
+          {
+            "timestamp": "2025-02-25T16:54:07.549Z",
+            "fileName": "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 91,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "code-workspace"
           }
         ]
       },
