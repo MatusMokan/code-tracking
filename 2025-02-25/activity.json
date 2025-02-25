@@ -2,9 +2,9 @@
   "date": "2025-02-25",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 182,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 266,
+      "totalLinesRemoved": 11,
+      "totalActiveTime": 5,
       "files": {
         "/Users/moky/Library/Application Support/Code/User/settings.json": [
           {
@@ -77,6 +77,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "code-workspace"
+          },
+          {
+            "timestamp": "2025-02-25T16:56:13.214Z",
+            "fileName": "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 84,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "code-workspace"
+          },
+          {
+            "timestamp": "2025-02-25T16:56:23.483Z",
+            "fileName": "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "code-workspace"
+          },
+          {
+            "timestamp": "2025-02-25T16:56:28.729Z",
+            "fileName": "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "code-workspace"
+          },
+          {
+            "timestamp": "2025-02-25T16:56:39.844Z",
+            "fileName": "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "code-workspace"
           }
         ]
