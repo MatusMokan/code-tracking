@@ -1,0 +1,189 @@
+{
+  "date": "2025-02-26",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 88,
+      "totalLinesRemoved": 35,
+      "totalActiveTime": 13,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/train.py": [
+          {
+            "timestamp": "2025-02-25T22:57:23.863Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T22:57:46.387Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T22:57:49.380Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T22:57:52.953Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T22:58:31.257Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T22:59:02.625Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T23:00:50.630Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T23:01:05.305Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T23:01:36.614Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T23:01:42.139Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 32,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-25T23:01:47.309Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/train.py",
+            "fileType": ".py",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 13
+      },
+      "changeFrequency": {
+        "0": 6,
+        "23": 7
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/train.py"
+      ],
+      "averageChangeSize": 11.181818181818182
+    }
+  },
+  "totalActiveTime": 13,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    23,
+    0
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
