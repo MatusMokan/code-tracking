@@ -2,9 +2,9 @@
   "date": "2025-02-26",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 179,
-      "totalLinesRemoved": 84,
-      "totalActiveTime": 43,
+      "totalLinesAdded": 233,
+      "totalLinesRemoved": 136,
+      "totalActiveTime": 52,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/train.py": [
           {
@@ -435,6 +435,118 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 28,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:09:32.968Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:09:34.283Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:09:37.365Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:11:44.082Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:11:48.763Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 37,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:11:57.356Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:12:06.810Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-26T13:12:20.792Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 14,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
