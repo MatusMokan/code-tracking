@@ -2,9 +2,9 @@
   "date": "2025-02-27",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 124,
-      "totalLinesRemoved": 92,
-      "totalActiveTime": 26,
+      "totalLinesAdded": 590,
+      "totalLinesRemoved": 112,
+      "totalActiveTime": 32,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py": [
           {
@@ -334,6 +334,78 @@
             "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
             "fileType": ".py",
             "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-27T19:33:41.750Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py": [
+          {
+            "timestamp": "2025-02-27T19:36:32.000Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py",
+            "fileType": ".py",
+            "linesAdded": 459,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-27T19:36:33.363Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-27T19:36:34.691Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-27T19:36:42.090Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
