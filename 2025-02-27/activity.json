@@ -3,8 +3,8 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 21,
-      "totalLinesRemoved": 6,
-      "totalActiveTime": 14,
+      "totalLinesRemoved": 21,
+      "totalActiveTime": 17,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py": [
           {
@@ -131,6 +131,20 @@
               "removed": []
             },
             "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-27T18:18:02.822Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 15,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
