@@ -2,9 +2,9 @@
   "date": "2025-02-28",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 66,
-      "totalLinesRemoved": 2,
-      "totalActiveTime": 5,
+      "totalLinesAdded": 522,
+      "totalLinesRemoved": 458,
+      "totalActiveTime": 6,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_cross.py": [
           {
@@ -120,6 +120,36 @@
             },
             "duration": 1,
             "language": "json"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py": [
+          {
+            "timestamp": "2025-02-28T18:31:41.561Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 456,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-28T18:32:05.550Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_random.py",
+            "fileType": ".py",
+            "linesAdded": 456,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
