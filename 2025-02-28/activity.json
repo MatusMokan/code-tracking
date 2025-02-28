@@ -2,9 +2,9 @@
   "date": "2025-02-28",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 51,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalLinesAdded": 66,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 5,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_cross.py": [
           {
@@ -48,6 +48,78 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "/Users/moky/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-02-28T08:39:31.609Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-28T08:39:41.755Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-28T08:39:46.650Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-28T08:39:50.643Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-02-28T08:39:53.880Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
