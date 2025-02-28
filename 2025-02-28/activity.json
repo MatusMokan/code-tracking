@@ -1,0 +1,61 @@
+{
+  "date": "2025-02-28",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 50,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_cross.py": [
+          {
+            "timestamp": "2025-02-28T08:22:20.221Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_cross.py",
+            "fileType": ".py",
+            "linesAdded": 46,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-02-28T08:22:37.104Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_cross.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/vit_reco_2_cross.py"
+      ],
+      "averageChangeSize": 25
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
