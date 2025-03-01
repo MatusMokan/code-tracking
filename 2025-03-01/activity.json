@@ -2,9 +2,9 @@
   "date": "2025-03-01",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 2664,
-      "totalLinesRemoved": 685,
-      "totalActiveTime": 67,
+      "totalLinesAdded": 3045,
+      "totalLinesRemoved": 853,
+      "totalActiveTime": 72,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_3.py": [
           {
@@ -754,6 +754,92 @@
             "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/03.vgg.py",
             "fileType": ".py",
             "linesAdded": 254,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/vgg/01b_vgg.py": [
+          {
+            "timestamp": "2025-03-01T12:47:11.323Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/01b_vgg.py",
+            "fileType": ".py",
+            "linesAdded": 169,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-01T12:47:12.339Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/01b_vgg.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 168,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-01T12:47:16.282Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/01b_vgg.py",
+            "fileType": ".py",
+            "linesAdded": 192,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-01T12:47:24.607Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/01b_vgg.py",
+            "fileType": ".py",
+            "linesAdded": 14,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-01T12:47:47.452Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/01b_vgg.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-01T12:47:53.187Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/01b_vgg.py",
+            "fileType": ".py",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
