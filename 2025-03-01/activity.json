@@ -2,9 +2,9 @@
   "date": "2025-03-01",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 3045,
-      "totalLinesRemoved": 853,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 3254,
+      "totalLinesRemoved": 863,
+      "totalActiveTime": 74,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_3.py": [
           {
@@ -841,6 +841,50 @@
             "fileType": ".py",
             "linesAdded": 5,
             "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/efficientNet/01_eff.py": [
+          {
+            "timestamp": "2025-03-01T12:55:44.738Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/efficientNet/01_eff.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-01T12:55:45.741Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/efficientNet/01_eff.py",
+            "fileType": ".py",
+            "linesAdded": 208,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-01T12:55:57.758Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/efficientNet/01_eff.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 10,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
