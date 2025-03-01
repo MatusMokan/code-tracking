@@ -2,9 +2,9 @@
   "date": "2025-03-01",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 3254,
+      "totalLinesAdded": 3275,
       "totalLinesRemoved": 863,
-      "totalActiveTime": 74,
+      "totalActiveTime": 85,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_3.py": [
           {
@@ -892,6 +892,162 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv": [
+          {
+            "timestamp": "2025-03-01T13:18:02.764Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:19:34.149Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:19:44.436Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:19:57.632Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:20:00.334Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:20:30.325Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:20:46.052Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:20:48.427Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:21:14.886Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:21:35.238Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-03-01T13:21:37.177Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/vgg/lightning_logs/version_0/metrics.csv",
+            "fileType": ".csv",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "csv"
           }
         ]
       },
