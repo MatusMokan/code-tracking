@@ -2,9 +2,9 @@
   "date": "2025-03-08",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 861,
-      "totalLinesRemoved": 108,
-      "totalActiveTime": 25,
+      "totalLinesAdded": 1250,
+      "totalLinesRemoved": 496,
+      "totalActiveTime": 27,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py": [
           {
@@ -349,6 +349,50 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:13:59.147Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 388,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py": [
+          {
+            "timestamp": "2025-03-08T13:14:17.816Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:14:18.832Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 388,
+            "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
