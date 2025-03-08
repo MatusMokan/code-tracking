@@ -2,9 +2,9 @@
   "date": "2025-03-08",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1250,
-      "totalLinesRemoved": 496,
-      "totalActiveTime": 27,
+      "totalLinesAdded": 1647,
+      "totalLinesRemoved": 639,
+      "totalActiveTime": 49,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py": [
           {
@@ -393,6 +393,302 @@
             "fileType": ".py",
             "linesAdded": 388,
             "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:05.550Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:49.339Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:52.371Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:54.408Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:57.096Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:17:06.468Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:17:13.907Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:17:19.060Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:17:51.811Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:18:15.119Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:18:24.986Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:18:31.744Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:18:39.633Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:18:41.037Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:18:44.108Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/fin_untils.py": [
+          {
+            "timestamp": "2025-03-08T13:16:17.715Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fin_untils.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:18.727Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fin_untils.py",
+            "fileType": ".py",
+            "linesAdded": 239,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:32.230Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fin_untils.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 51,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:36.129Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fin_untils.py",
+            "fileType": ".py",
+            "linesAdded": 51,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:16:44.839Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fin_untils.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 53,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:17:43.061Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fin_untils.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 33,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
