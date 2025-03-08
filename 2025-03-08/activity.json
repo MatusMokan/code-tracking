@@ -3,7 +3,7 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 1647,
-      "totalLinesRemoved": 639,
+      "totalLinesRemoved": 643,
       "totalActiveTime": 49,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py": [
@@ -609,6 +609,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T13:24:08.917Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
