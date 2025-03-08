@@ -1,0 +1,61 @@
+{
+  "date": "2025-03-08",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 336,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py": [
+          {
+            "timestamp": "2025-03-08T08:54:36.539Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py",
+            "fileType": ".py",
+            "linesAdded": 334,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-08T08:54:37.778Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "9": 1
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2b.py"
+      ],
+      "averageChangeSize": 168
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
