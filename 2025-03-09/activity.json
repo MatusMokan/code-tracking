@@ -2,9 +2,9 @@
   "date": "2025-03-09",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 162,
+      "totalLinesAdded": 165,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 1,
+      "totalActiveTime": 4,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_all.py": [
           {
@@ -34,6 +34,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/config.yaml": [
+          {
+            "timestamp": "2025-03-09T08:52:37.241Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/config.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "yaml"
+          },
+          {
+            "timestamp": "2025-03-09T08:52:38.251Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/config.yaml",
+            "fileType": ".yaml",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "yaml"
           }
         ]
       },
