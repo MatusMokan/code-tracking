@@ -3,7 +3,7 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 16447,
-      "totalLinesRemoved": 2472,
+      "totalLinesRemoved": 2579,
       "totalActiveTime": 240,
       "files": {
         "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
@@ -2291,6 +2291,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:34:47.779Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 107,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ipynb"
           }
         ]
