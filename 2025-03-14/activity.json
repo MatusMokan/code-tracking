@@ -3,8 +3,8 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 16219,
-      "totalLinesRemoved": 2247,
-      "totalActiveTime": 222,
+      "totalLinesRemoved": 2362,
+      "totalActiveTime": 223,
       "files": {
         "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
           {
@@ -2145,6 +2145,34 @@
             "fileType": ".ipynb",
             "linesAdded": 18,
             "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:17:46.469Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 112,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:17:54.664Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 3,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
