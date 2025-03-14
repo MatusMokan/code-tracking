@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 31                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 31                |
-| **Active Time** (⌚)   | 1 minute |
+| **Lines Added** (➕)   | 38                                          |
+| **Lines Removed** (➖) | 1                                        |
+| **Net Change** (↕)    | 37                |
+| **Active Time** (⌚)   | 4 minutes |
 
 
 ## Modified Files
-- **merge.ipynb** (+31, -0)
+- **merge.ipynb** (+38, -1)
 
 ## Visualizations
 
@@ -20,7 +20,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".ipynb" : 31
+".ipynb" : 39
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +28,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"00h" : 2
+"00h" : 6
 ```
 
 
-> **Last Updated:** 15/03/2025, 00:15:10
+> **Last Updated:** 15/03/2025, 00:20:10
