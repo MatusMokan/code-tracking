@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-14",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 77,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
+          {
+            "timestamp": "2025-03-14T17:27:12.369Z",
+            "fileName": "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 77,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "code-workspace"
+          }
+        ]
+      },
+      "languageStats": {
+        "code-workspace": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "/Users/moky/School/VSCodeWS/MyWS.code-workspace"
+      ],
+      "averageChangeSize": 77
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "code-workspace"
+  ]
+}
