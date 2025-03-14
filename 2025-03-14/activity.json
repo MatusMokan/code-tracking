@@ -2,7 +2,7 @@
   "date": "2025-03-14",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 13290,
+      "totalLinesAdded": 13323,
       "totalLinesRemoved": 1265,
       "totalActiveTime": 125,
       "files": {
@@ -1330,6 +1330,20 @@
             "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
             "fileType": ".ipynb",
             "linesAdded": 116,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T19:39:34.134Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 33,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
