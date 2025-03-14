@@ -2,9 +2,9 @@
   "date": "2025-03-14",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 15459,
-      "totalLinesRemoved": 1938,
-      "totalActiveTime": 174,
+      "totalLinesAdded": 15472,
+      "totalLinesRemoved": 1939,
+      "totalActiveTime": 181,
       "files": {
         "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
           {
@@ -1771,6 +1771,76 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T20:11:38.761Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T20:11:42.519Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T20:11:46.108Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T20:12:21.386Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T20:12:23.509Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ipynb"
           }
         ]
