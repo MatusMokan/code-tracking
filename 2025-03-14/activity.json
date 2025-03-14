@@ -2,9 +2,9 @@
   "date": "2025-03-14",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 16219,
-      "totalLinesRemoved": 2362,
-      "totalActiveTime": 223,
+      "totalLinesAdded": 16337,
+      "totalLinesRemoved": 2472,
+      "totalActiveTime": 234,
       "files": {
         "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
           {
@@ -2173,6 +2173,90 @@
             "fileType": ".ipynb",
             "linesAdded": 0,
             "linesRemoved": 3,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:20:10.700Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 12,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:23:44.300Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:24:19.767Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 108,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:24:20.827Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:24:22.187Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:25:04.008Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/01_usecase/02_output_crs.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
