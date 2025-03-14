@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 18274                                          |
-| **Lines Removed** (➖) | 2714                                        |
-| **Net Change** (↕)    | 15560                |
+| **Lines Removed** (➖) | 2736                                        |
+| **Net Change** (↕)    | 15538                |
 | **Active Time** (⌚)   | 251 minutes |
 
 
 ## Modified Files
 - **MyWS.code-workspace** (+77, -0)
-- **merge.ipynb** (+17610, -2382)
+- **merge.ipynb** (+17610, -2404)
 - **02_output_crs.ipynb** (+587, -332)
 
 ## Visualizations
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".code-workspace" : 77
-".ipynb" : 20911
+".ipynb" : 20933
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -36,8 +36,8 @@ title Coding activity by hour (count of changes)
 "20h" : 38
 "21h" : 29
 "22h" : 15
-"23h" : 7
+"23h" : 8
 ```
 
 
-> **Last Updated:** 14/03/2025, 23:05:10
+> **Last Updated:** 14/03/2025, 23:20:10
