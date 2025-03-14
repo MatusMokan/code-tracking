@@ -3,7 +3,7 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 16447,
-      "totalLinesRemoved": 2579,
+      "totalLinesRemoved": 2713,
       "totalActiveTime": 240,
       "files": {
         "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
@@ -2121,6 +2121,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-14T21:54:01.671Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 134,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "ipynb"
           }
         ],
