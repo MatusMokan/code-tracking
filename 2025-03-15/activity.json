@@ -2,9 +2,9 @@
   "date": "2025-03-15",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 436,
-      "totalLinesRemoved": 28,
-      "totalActiveTime": 11,
+      "totalLinesAdded": 438,
+      "totalLinesRemoved": 30,
+      "totalActiveTime": 14,
       "files": {
         "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb": [
           {
@@ -231,6 +231,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-15T14:20:24.737Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-15T14:20:25.976Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-15T14:21:12.843Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-15T14:21:15.119Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
