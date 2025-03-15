@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 513                                          |
-| **Lines Removed** (➖) | 61                                        |
-| **Net Change** (↕)    | 452                |
-| **Active Time** (⌚)   | 35 minutes |
+| **Lines Added** (➕)   | 601                                          |
+| **Lines Removed** (➖) | 133                                        |
+| **Net Change** (↕)    | 468                |
+| **Active Time** (⌚)   | 37 minutes |
 
 
 ## Modified Files
 - **merge.ipynb** (+38, -1)
-- **fingerprints_2d.py** (+475, -60)
+- **fingerprints_2d.py** (+563, -132)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 pie showData
 title Lines changed by file type
 ".ipynb" : 39
-".py" : 535
+".py" : 695
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +33,8 @@ title Coding activity by hour (count of changes)
 "00h" : 6
 "14h" : 8
 "15h" : 25
+"18h" : 3
 ```
 
 
-> **Last Updated:** 15/03/2025, 15:51:18
+> **Last Updated:** 15/03/2025, 18:41:18
