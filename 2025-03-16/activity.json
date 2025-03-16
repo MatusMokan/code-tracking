@@ -2,9 +2,9 @@
   "date": "2025-03-16",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 99,
+      "totalLinesAdded": 106,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 7,
       "files": {
         "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/util_edit_datasets.py": [
           {
@@ -49,6 +49,34 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-16T21:48:15.989Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-16T21:49:59.038Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
