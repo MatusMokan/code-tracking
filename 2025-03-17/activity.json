@@ -2,9 +2,9 @@
   "date": "2025-03-17",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 251,
+      "totalLinesAdded": 263,
       "totalLinesRemoved": 14,
-      "totalActiveTime": 19,
+      "totalActiveTime": 28,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/utils/divide.py": [
           {
@@ -288,6 +288,148 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore": [
+          {
+            "timestamp": "2025-03-17T12:57:39.640Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:57:47.446Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:57:59.622Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:58:13.922Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:58:22.789Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:58:33.961Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:58:47.440Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:58:58.665Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:59:01.068Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-17T12:59:04.898Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
