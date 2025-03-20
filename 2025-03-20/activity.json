@@ -2,9 +2,9 @@
   "date": "2025-03-20",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 17123,
-      "totalLinesRemoved": 109,
-      "totalActiveTime": 32,
+      "totalLinesAdded": 17167,
+      "totalLinesRemoved": 122,
+      "totalActiveTime": 44,
       "files": {
         "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb": [
           {
@@ -337,6 +337,146 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:24:26.863Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:24:46.930Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:26:11.762Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:26:13.464Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:26:18.756Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:26:21.304Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:26:26.576Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:26:29.187Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:27:23.655Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-20T19:27:26.371Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
