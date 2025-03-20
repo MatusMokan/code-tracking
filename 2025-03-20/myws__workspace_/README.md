@@ -4,15 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 17121                                          |
-| **Lines Removed** (➖) | 95                                        |
-| **Net Change** (↕)    | 17026                |
-| **Active Time** (⌚)   | 23 minutes |
+| **Lines Added** (➕)   | 17123                                          |
+| **Lines Removed** (➖) | 109                                        |
+| **Net Change** (↕)    | 17014                |
+| **Active Time** (⌚)   | 32 minutes |
 
 
 ## Modified Files
 - **merge.ipynb** (+16658, -0)
-- **dea.py** (+463, -95)
+- **dea.py** (+465, -109)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 pie showData
 title Lines changed by file type
 ".ipynb" : 16658
-".py" : 558
+".py" : 574
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -32,8 +32,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "18h" : 3
 "19h" : 13
-"20h" : 3
+"20h" : 8
 ```
 
 
-> **Last Updated:** 20/03/2025, 20:18:27
+> **Last Updated:** 20/03/2025, 20:23:27
