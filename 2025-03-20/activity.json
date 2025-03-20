@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-20",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 16658,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb": [
+          {
+            "timestamp": "2025-03-20T17:51:29.790Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 16658,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb"
+      ],
+      "averageChangeSize": 16658
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "ipynb"
+  ]
+}
