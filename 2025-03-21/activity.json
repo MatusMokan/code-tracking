@@ -3,7 +3,7 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 325,
-      "totalLinesRemoved": 23,
+      "totalLinesRemoved": 35,
       "totalActiveTime": 32,
       "files": {
         "/Users/moky/School/4rocnik/DP/Johi/dea.py": [
@@ -342,6 +342,22 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb": [
+          {
+            "timestamp": "2025-03-21T09:51:41.361Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/merge.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 12,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
           }
         ]
       },
