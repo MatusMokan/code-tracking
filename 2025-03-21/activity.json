@@ -2,9 +2,9 @@
   "date": "2025-03-21",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1875,
+      "totalLinesAdded": 1913,
       "totalLinesRemoved": 643,
-      "totalActiveTime": 64,
+      "totalActiveTime": 67,
       "files": {
         "/Users/moky/School/4rocnik/DP/Johi/dea.py": [
           {
@@ -708,6 +708,64 @@
             },
             "duration": 0,
             "language": "ipynb"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/Johi/.gitignore": [
+          {
+            "timestamp": "2025-03-21T11:51:17.350Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-21T11:51:18.376Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 35,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-21T11:51:23.627Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-21T11:51:28.157Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
           }
         ]
       },
