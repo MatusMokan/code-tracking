@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1837                                          |
-| **Lines Removed** (➖) | 615                                        |
-| **Net Change** (↕)    | 1222                |
-| **Active Time** (⌚)   | 48 minutes |
+| **Lines Added** (➕)   | 1852                                          |
+| **Lines Removed** (➖) | 643                                        |
+| **Net Change** (↕)    | 1209                |
+| **Active Time** (⌚)   | 58 minutes |
 
 
 ## Modified Files
-- **dea.py** (+376, -102)
+- **dea.py** (+391, -130)
 - **merge.ipynb** (+1461, -513)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 478
+".py" : 521
 ".ipynb" : 1974
 ```
 
@@ -32,8 +32,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 10
 "10h" : 15
-"11h" : 14
+"11h" : 20
 ```
 
 
-> **Last Updated:** 21/03/2025, 11:21:40
+> **Last Updated:** 21/03/2025, 11:26:40
