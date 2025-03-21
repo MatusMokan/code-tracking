@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 3742                                          |
-| **Lines Removed** (➖) | 911                                        |
+| **Lines Added** (➕)   | 4526                                          |
+| **Lines Removed** (➖) | 1695                                        |
 | **Net Change** (↕)    | 2831                |
-| **Active Time** (⌚)   | 88 minutes |
+| **Active Time** (⌚)   | 94 minutes |
 
 
 ## Modified Files
 - **dea.py** (+414, -130)
 - **merge.ipynb** (+1461, -513)
 - **.gitignore** (+38, -0)
-- **fingerprints_2d.py** (+862, -140)
+- **fingerprints_2d.py** (+1646, -924)
 - **augment.py** (+244, -0)
 - **fingerprints_2d_svm.py** (+723, -128)
 
@@ -25,7 +25,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2641
+".py" : 4209
 ".ipynb" : 1974
 "unknown" : 38
 ```
@@ -40,8 +40,8 @@ title Coding activity by hour (count of changes)
 "11h" : 25
 "12h" : 4
 "14h" : 14
-"15h" : 7
+"15h" : 10
 ```
 
 
-> **Last Updated:** 21/03/2025, 15:40:29
+> **Last Updated:** 21/03/2025, 15:45:28
