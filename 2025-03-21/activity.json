@@ -2,7 +2,7 @@
   "date": "2025-03-21",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 165,
+      "totalLinesAdded": 174,
       "totalLinesRemoved": 4,
       "totalActiveTime": 10,
       "files": {
@@ -131,6 +131,20 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T08:57:01.267Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
