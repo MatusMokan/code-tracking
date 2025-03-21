@@ -2,9 +2,9 @@
   "date": "2025-03-21",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 5247,
-      "totalLinesRemoved": 2289,
-      "totalActiveTime": 116,
+      "totalLinesAdded": 5322,
+      "totalLinesRemoved": 2303,
+      "totalActiveTime": 130,
       "files": {
         "/Users/moky/School/4rocnik/DP/Johi/dea.py": [
           {
@@ -1359,6 +1359,188 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:19:20.802Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 22,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:19:54.187Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 37,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:21:41.681Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 5,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:21:56.853Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:21:59.527Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:06.177Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 5,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:19.140Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:22.491Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:26.791Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:29.777Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:47.715Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:51.698Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-21T18:22:59.324Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d_svm.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
