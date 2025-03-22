@@ -1,0 +1,136 @@
+{
+  "date": "2025-03-22",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 48,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 7,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.ipynb": [
+          {
+            "timestamp": "2025-03-22T17:34:58.209Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-22T17:35:05.496Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-22T17:35:12.018Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-03-22T17:36:29.885Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.py": [
+          {
+            "timestamp": "2025-03-22T17:36:57.540Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-22T17:37:22.057Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-22T17:37:27.577Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 4,
+        "py": 3
+      },
+      "changeFrequency": {
+        "18": 7
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.ipynb",
+        "/Users/moky/School/4rocnik/DP/ImageReco/extract_bib/extract_bib.py"
+      ],
+      "averageChangeSize": 6.857142857142857
+    }
+  },
+  "totalActiveTime": 7,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "ipynb",
+    "py"
+  ]
+}
