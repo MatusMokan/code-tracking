@@ -3,8 +3,8 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 1238,
-      "totalLinesRemoved": 124,
-      "totalActiveTime": 56,
+      "totalLinesRemoved": 133,
+      "totalActiveTime": 63,
       "files": {
         "/Users/moky/School/4rocnik/DP/Johi/dea.py": [
           {
@@ -649,6 +649,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-26T22:32:02.478Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-26T22:34:47.115Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 3,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
