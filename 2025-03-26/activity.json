@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-26",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 961,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/Johi/dea.py": [
+          {
+            "timestamp": "2025-03-26T21:13:29.448Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Johi/dea.py",
+            "fileType": ".py",
+            "linesAdded": 961,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "22": 0
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/Johi/dea.py"
+      ],
+      "averageChangeSize": 961
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
