@@ -2,9 +2,9 @@
   "date": "2025-03-29",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1444,
+      "totalLinesAdded": 1445,
       "totalLinesRemoved": 243,
-      "totalActiveTime": 16,
+      "totalActiveTime": 17,
       "files": {
         "/Users/moky/Library/Application Support/Code/User/settings.json": [
           {
@@ -217,6 +217,20 @@
           },
           {
             "timestamp": "2025-03-29T20:29:43.103Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2025-03-29T20:30:04.408Z",
             "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/.gitignore",
             "fileType": "unknown",
             "linesAdded": 1,
