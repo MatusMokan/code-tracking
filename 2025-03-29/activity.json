@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-29",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 16,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-03-29T11:48:41.754Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 16,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "/Users/moky/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 16
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
