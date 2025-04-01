@@ -1,0 +1,75 @@
+{
+  "date": "2025-04-01",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 6,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py": [
+          {
+            "timestamp": "2025-04-01T12:38:29.655Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-01T12:38:33.594Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-01T12:38:38.356Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "14": 2
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2d.py"
+      ],
+      "averageChangeSize": 2
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
