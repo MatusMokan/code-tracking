@@ -1,0 +1,85 @@
+{
+  "date": "2025-04-05",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 394,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/moky/School/VSCodeWS/MyWS.code-workspace": [
+          {
+            "timestamp": "2025-04-05T20:35:33.407Z",
+            "fileName": "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+            "fileType": ".code-workspace",
+            "linesAdded": 80,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "code-workspace"
+          }
+        ],
+        "/Users/moky/FEIstyle_v2-0-1-2/includes/core.tex": [
+          {
+            "timestamp": "2025-04-05T20:36:42.912Z",
+            "fileName": "/Users/moky/FEIstyle_v2-0-1-2/includes/core.tex",
+            "fileType": ".tex",
+            "linesAdded": 311,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "tex"
+          }
+        ],
+        "/Users/moky/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-04-05T20:37:34.367Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "code-workspace": 0,
+        "tex": 2,
+        "json": 1
+      },
+      "changeFrequency": {
+        "22": 3
+      },
+      "topFiles": [
+        "/Users/moky/School/VSCodeWS/MyWS.code-workspace",
+        "/Users/moky/FEIstyle_v2-0-1-2/includes/core.tex",
+        "/Users/moky/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 131.33333333333334
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 3,
+  "mostActiveHours": [
+    22
+  ],
+  "mostUsedLanguages": [
+    "tex",
+    "json",
+    "code-workspace"
+  ]
+}
