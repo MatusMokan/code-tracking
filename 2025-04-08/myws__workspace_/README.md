@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 64                                          |
+| **Lines Added** (➕)   | 276                                          |
 | **Lines Removed** (➖) | 44                                        |
-| **Net Change** (↕)    | 20                |
-| **Active Time** (⌚)   | 2 minutes |
+| **Net Change** (↕)    | 232                |
+| **Active Time** (⌚)   | 5 minutes |
 
 
 ## Modified Files
-- **settings.json** (+64, -44)
+- **settings.json** (+146, -44)
+- **thesis.tex** (+130, -0)
 
 ## Visualizations
 
@@ -20,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 108
+".json" : 190
+".tex" : 130
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -28,8 +30,8 @@ title Lines changed by file type
 ```mermaid
 pie showData
 title Coding activity by hour (count of changes)
-"11h" : 3
+"11h" : 6
 ```
 
 
-> **Last Updated:** 08/04/2025, 11:13:41
+> **Last Updated:** 08/04/2025, 11:18:41
