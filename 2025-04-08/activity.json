@@ -1,0 +1,75 @@
+{
+  "date": "2025-04-08",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 64,
+      "totalLinesRemoved": 44,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/moky/Library/Application Support/Code/User/settings.json": [
+          {
+            "timestamp": "2025-04-08T09:09:35.194Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-08T09:09:36.856Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-08T09:09:47.305Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/User/settings.json",
+            "fileType": ".json",
+            "linesAdded": 0,
+            "linesRemoved": 44,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 2
+      },
+      "changeFrequency": {
+        "11": 2
+      },
+      "topFiles": [
+        "/Users/moky/Library/Application Support/Code/User/settings.json"
+      ],
+      "averageChangeSize": 36
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
