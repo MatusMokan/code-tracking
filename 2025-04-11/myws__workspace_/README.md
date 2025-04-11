@@ -4,15 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 105                                          |
+| **Lines Added** (➕)   | 164                                          |
 | **Lines Removed** (➖) | 10                                        |
-| **Net Change** (↕)    | 95                |
-| **Active Time** (⌚)   | 7 minutes |
+| **Net Change** (↕)    | 154                |
+| **Active Time** (⌚)   | 8 minutes |
 
 
 ## Modified Files
 - **dea.py** (+67, -10)
 - **dea_superefficiency_table.csv** (+38, -0)
+- **run_predict_ridb_all.py** (+59, -0)
 
 ## Visualizations
 
@@ -21,7 +22,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 77
+".py" : 136
 ".csv" : 38
 ```
 
@@ -32,7 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "09h" : 2
 "10h" : 9
+"14h" : 2
 ```
 
 
-> **Last Updated:** 11/04/2025, 10:58:34
+> **Last Updated:** 11/04/2025, 14:27:20
