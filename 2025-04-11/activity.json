@@ -2,9 +2,9 @@
   "date": "2025-04-11",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 164,
+      "totalLinesAdded": 165,
       "totalLinesRemoved": 10,
-      "totalActiveTime": 8,
+      "totalActiveTime": 10,
       "files": {
         "/Users/moky/School/4rocnik/DP/Johi/dea.py": [
           {
@@ -191,6 +191,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-11T12:28:21.231Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
