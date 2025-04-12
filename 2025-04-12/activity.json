@@ -2,9 +2,9 @@
   "date": "2025-04-12",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 8999,
+      "totalLinesAdded": 9063,
       "totalLinesRemoved": 825,
-      "totalActiveTime": 158,
+      "totalActiveTime": 159,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/res_to_512.py": [
           {
@@ -1851,6 +1851,36 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 2,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py": [
+          {
+            "timestamp": "2025-04-12T19:37:01.114Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py",
+            "fileType": ".py",
+            "linesAdded": 60,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-12T19:37:03.759Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
