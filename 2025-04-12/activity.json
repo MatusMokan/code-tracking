@@ -2,9 +2,9 @@
   "date": "2025-04-12",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1981,
+      "totalLinesAdded": 1996,
       "totalLinesRemoved": 30,
-      "totalActiveTime": 56,
+      "totalActiveTime": 61,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/res_to_512.py": [
           {
@@ -605,6 +605,34 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 9,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-12T10:18:25.573Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2g.py",
+            "fileType": ".py",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-12T10:18:33.663Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2g.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
