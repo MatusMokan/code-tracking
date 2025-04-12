@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-12",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 46,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/res_to_512.py": [
+          {
+            "timestamp": "2025-04-12T09:40:48.497Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/res_to_512.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-12T09:40:49.512Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/res_to_512.py",
+            "fileType": ".py",
+            "linesAdded": 45,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "11": 1
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/res_to_512.py"
+      ],
+      "averageChangeSize": 23
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
