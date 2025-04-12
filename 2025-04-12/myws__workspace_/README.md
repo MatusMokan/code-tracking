@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 7914                                          |
-| **Lines Removed** (➖) | 777                                        |
-| **Net Change** (↕)    | 7137                |
-| **Active Time** (⌚)   | 142 minutes |
+| **Lines Added** (➕)   | 7945                                          |
+| **Lines Removed** (➖) | 786                                        |
+| **Net Change** (↕)    | 7159                |
+| **Active Time** (⌚)   | 153 minutes |
 
 
 ## Modified Files
@@ -19,7 +19,7 @@
 - **fingerprints.py** (+173, -43)
 - **fingerprints_2g_person_pca.py** (+1453, -509)
 - **fingerprints_2g_person_onlyG.py** (+944, -11)
-- **fingerprints_2g_person_onlyG2p.py** (+1029, -0)
+- **fingerprints_2g_person_onlyG2p.py** (+1060, -9)
 
 ## Visualizations
 
@@ -28,7 +28,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 8691
+".py" : 8731
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -43,8 +43,8 @@ title Coding activity by hour (count of changes)
 "15h" : 4
 "16h" : 22
 "19h" : 18
-"20h" : 5
+"20h" : 13
 ```
 
 
-> **Last Updated:** 12/04/2025, 20:30:43
+> **Last Updated:** 12/04/2025, 20:35:43
