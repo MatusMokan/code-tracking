@@ -2,9 +2,9 @@
   "date": "2025-04-12",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 5941,
+      "totalLinesAdded": 6885,
       "totalLinesRemoved": 765,
-      "totalActiveTime": 125,
+      "totalActiveTime": 128,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/res_to_512.py": [
           {
@@ -1557,6 +1557,22 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2g_person_onlyG.py": [
+          {
+            "timestamp": "2025-04-12T17:42:50.823Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2g_person_onlyG.py",
+            "fileType": ".py",
+            "linesAdded": 944,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
