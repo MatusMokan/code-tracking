@@ -2,9 +2,9 @@
   "date": "2025-04-18",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 3969,
-      "totalLinesRemoved": 1358,
-      "totalActiveTime": 79,
+      "totalLinesAdded": 3996,
+      "totalLinesRemoved": 1373,
+      "totalActiveTime": 82,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -719,6 +719,62 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T15:13:02.575Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T15:13:04.406Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 9,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T15:13:10.484Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py",
+            "fileType": ".py",
+            "linesAdded": 18,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T15:13:18.438Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ],
