@@ -2,9 +2,9 @@
   "date": "2025-04-18",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 5065,
-      "totalLinesRemoved": 1458,
-      "totalActiveTime": 90,
+      "totalLinesAdded": 5092,
+      "totalLinesRemoved": 1475,
+      "totalActiveTime": 97,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -1096,6 +1096,104 @@
             "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
             "fileType": ".py",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:04:11.658Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:04:14.531Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:04:17.455Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:04:22.781Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:04:42.038Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:04:54.767Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 8,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:04:57.605Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual_grat.py",
+            "fileType": ".py",
+            "linesAdded": 10,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
