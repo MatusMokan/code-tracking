@@ -2,9 +2,9 @@
   "date": "2025-04-18",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 6064,
+      "totalLinesAdded": 6162,
       "totalLinesRemoved": 1476,
-      "totalActiveTime": 102,
+      "totalActiveTime": 104,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -1245,6 +1245,50 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/utils/crop_image.py": [
+          {
+            "timestamp": "2025-04-18T16:49:42.047Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/utils/crop_image.py",
+            "fileType": ".py",
+            "linesAdded": 95,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:49:51.311Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/utils/crop_image.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T16:50:17.658Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/utils/crop_image.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
