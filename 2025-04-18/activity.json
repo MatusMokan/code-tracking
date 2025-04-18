@@ -2,9 +2,9 @@
   "date": "2025-04-18",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 6587,
+      "totalLinesAdded": 6793,
       "totalLinesRemoved": 1511,
-      "totalActiveTime": 131,
+      "totalActiveTime": 136,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -1594,6 +1594,92 @@
             "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/fingerprints_2c.py",
             "fileType": ".py",
             "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/05_extractor.py": [
+          {
+            "timestamp": "2025-04-18T19:12:43.273Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/05_extractor.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T19:12:44.402Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/05_extractor.py",
+            "fileType": ".py",
+            "linesAdded": 104,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T19:12:57.842Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/05_extractor.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T19:12:59.502Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/05_extractor.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T19:13:18.419Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/05_extractor.py",
+            "fileType": ".py",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T19:13:26.623Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/05_extractor.py",
+            "fileType": ".py",
+            "linesAdded": 63,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
