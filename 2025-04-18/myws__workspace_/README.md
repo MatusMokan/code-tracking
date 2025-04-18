@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 6573                                          |
-| **Lines Removed** (➖) | 1506                                        |
-| **Net Change** (↕)    | 5067                |
-| **Active Time** (⌚)   | 119 minutes |
+| **Lines Added** (➕)   | 6581                                          |
+| **Lines Removed** (➖) | 1511                                        |
+| **Net Change** (↕)    | 5070                |
+| **Active Time** (⌚)   | 127 minutes |
 
 
 ## Modified Files
 - **00_non_visual.py** (+2209, -1255)
 - **01_classification.py** (+960, -147)
-- **03_non_visual_kfold.py** (+945, -56)
+- **03_non_visual_kfold.py** (+953, -61)
 - **00_non_visual_grat.py** (+983, -17)
 - **04_non_visual_grat.py** (+998, -1)
 - **crop_image.py** (+98, -0)
@@ -27,7 +27,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 8079
+".py" : 8092
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -44,8 +44,8 @@ title Coding activity by hour (count of changes)
 "17h" : 10
 "18h" : 16
 "19h" : 10
-"20h" : 4
+"20h" : 9
 ```
 
 
-> **Last Updated:** 18/04/2025, 20:53:53
+> **Last Updated:** 18/04/2025, 20:58:53

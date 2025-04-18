@@ -2,9 +2,9 @@
   "date": "2025-04-18",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 6573,
-      "totalLinesRemoved": 1506,
-      "totalActiveTime": 119,
+      "totalLinesAdded": 6581,
+      "totalLinesRemoved": 1511,
+      "totalActiveTime": 127,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -1129,6 +1129,76 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T18:53:54.566Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T18:53:56.544Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T18:54:41.286Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T18:54:42.931Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T18:58:38.997Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "py"
           }
         ],
