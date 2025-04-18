@@ -3,8 +3,8 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 1038,
-      "totalLinesRemoved": 224,
-      "totalActiveTime": 25,
+      "totalLinesRemoved": 225,
+      "totalActiveTime": 26,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -293,6 +293,20 @@
             "fileType": ".py",
             "linesAdded": 0,
             "linesRemoved": 11,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-18T09:34:33.912Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
