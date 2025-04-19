@@ -2,9 +2,9 @@
   "date": "2025-04-19",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1065,
-      "totalLinesRemoved": 28,
-      "totalActiveTime": 18,
+      "totalLinesAdded": 1936,
+      "totalLinesRemoved": 85,
+      "totalActiveTime": 25,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py": [
           {
@@ -92,6 +92,34 @@
             },
             "duration": 4,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T11:44:06.088Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/06_non_visual_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 55,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T11:44:19.536Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/06_non_visual_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 55,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "/Users/moky/School/4rocnik/DP/ImageReco/07_augment.py": [
@@ -135,6 +163,78 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/08_classification_spec_folders.py": [
+          {
+            "timestamp": "2025-04-19T11:45:12.324Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/08_classification_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 813,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T11:45:26.816Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/08_classification_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T11:45:28.181Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/08_classification_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T11:45:50.646Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/08_classification_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T11:47:07.854Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/08_classification_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ]
