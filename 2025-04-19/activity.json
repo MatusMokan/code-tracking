@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-19",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 0,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py": [
+          {
+            "timestamp": "2025-04-19T10:16:39.635Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "12": 0
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py"
+      ],
+      "averageChangeSize": 1
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
