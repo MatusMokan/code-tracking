@@ -2,7 +2,7 @@
   "date": "2025-04-19",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 2148,
+      "totalLinesAdded": 2149,
       "totalLinesRemoved": 199,
       "totalActiveTime": 92,
       "files": {
@@ -609,6 +609,20 @@
               "removed": []
             },
             "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T19:22:59.767Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/06_non_visual_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ],
