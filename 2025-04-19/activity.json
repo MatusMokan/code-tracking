@@ -3,7 +3,7 @@
   "projects": {
     "MyWS (Workspace)": {
       "totalLinesAdded": 1946,
-      "totalLinesRemoved": 92,
+      "totalLinesRemoved": 94,
       "totalActiveTime": 35,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py": [
@@ -375,6 +375,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T11:57:16.652Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/08_classification_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
