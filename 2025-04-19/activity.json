@@ -2,9 +2,9 @@
   "date": "2025-04-19",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 2180,
-      "totalLinesRemoved": 199,
-      "totalActiveTime": 92,
+      "totalLinesAdded": 2201,
+      "totalLinesRemoved": 200,
+      "totalActiveTime": 95,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/03_non_visual_kfold.py": [
           {
@@ -1169,6 +1169,64 @@
             "fileType": ".py",
             "linesAdded": 14,
             "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/01_classification.py": [
+          {
+            "timestamp": "2025-04-19T19:53:51.757Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/01_classification.py",
+            "fileType": ".py",
+            "linesAdded": 19,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T19:53:53.041Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/01_classification.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T19:53:56.076Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/01_classification.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-19T19:53:57.105Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/01_classification.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
             "projectName": "MyWS (Workspace)",
             "content": {
               "added": [],
