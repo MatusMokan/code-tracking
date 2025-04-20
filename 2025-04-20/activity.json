@@ -2,9 +2,9 @@
   "date": "2025-04-20",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 109,
+      "totalLinesAdded": 112,
       "totalLinesRemoved": 24,
-      "totalActiveTime": 60,
+      "totalActiveTime": 62,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -630,6 +630,48 @@
             "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/06_non_visual_spec_folders.py",
             "fileType": ".py",
             "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-20T08:56:09.182Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/06_non_visual_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-20T08:56:21.061Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/06_non_visual_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-20T08:56:22.072Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/06_non_visual_spec_folders.py",
+            "fileType": ".py",
+            "linesAdded": 1,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
