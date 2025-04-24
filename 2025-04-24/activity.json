@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-24",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 25,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/Downloads/codes/rename.py": [
+          {
+            "timestamp": "2025-04-24T13:13:12.402Z",
+            "fileName": "/Users/moky/Downloads/codes/rename.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-24T13:13:13.412Z",
+            "fileName": "/Users/moky/Downloads/codes/rename.py",
+            "fileType": ".py",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "15": 1
+      },
+      "topFiles": [
+        "/Users/moky/Downloads/codes/rename.py"
+      ],
+      "averageChangeSize": 12.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    15
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
