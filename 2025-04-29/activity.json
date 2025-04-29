@@ -2,7 +2,7 @@
   "date": "2025-04-29",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 51,
+      "totalLinesAdded": 298,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -20,6 +20,22 @@
             },
             "duration": 0,
             "language": "txt"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/src/retina_unet_training.py": [
+          {
+            "timestamp": "2025-04-29T15:23:46.185Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/src/retina_unet_training.py",
+            "fileType": ".py",
+            "linesAdded": 247,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
           }
         ]
       },
