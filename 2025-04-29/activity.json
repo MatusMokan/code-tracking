@@ -2,9 +2,9 @@
   "date": "2025-04-29",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 298,
+      "totalLinesAdded": 352,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/configuration_stare.txt": [
           {
@@ -36,6 +36,36 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/configuration_chase.txt": [
+          {
+            "timestamp": "2025-04-29T20:59:53.251Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/configuration_chase.txt",
+            "fileType": ".txt",
+            "linesAdded": 53,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-04-29T21:00:48.860Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/configuration_chase.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
