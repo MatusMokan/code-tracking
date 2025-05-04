@@ -2,9 +2,9 @@
   "date": "2025-05-04",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 582,
-      "totalLinesRemoved": 5,
-      "totalActiveTime": 12,
+      "totalLinesAdded": 586,
+      "totalLinesRemoved": 20,
+      "totalActiveTime": 23,
       "files": {
         "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/analyze_results.py": [
           {
@@ -77,6 +77,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "csv"
+          },
+          {
+            "timestamp": "2025-05-04T17:41:36.706Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/data/RIDB/test_all.csv",
+            "fileType": ".csv",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "csv"
           }
         ],
@@ -207,6 +221,62 @@
               "removed": []
             },
             "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-04T17:42:50.514Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/utils/get_loaders.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-04T17:42:57.253Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/utils/get_loaders.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-04T17:45:14.839Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/utils/get_loaders.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 4,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-04T17:45:19.645Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/utils/get_loaders.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]

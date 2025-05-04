@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 582                                          |
-| **Lines Removed** (➖) | 5                                        |
-| **Net Change** (↕)    | 577                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 586                                          |
+| **Lines Removed** (➖) | 20                                        |
+| **Net Change** (↕)    | 566                |
+| **Active Time** (⌚)   | 23 minutes |
 
 
 ## Modified Files
 - **analyze_results.py** (+251, -0)
-- **test_all.csv** (+103, -1)
+- **test_all.csv** (+103, -2)
 - **create_ridb_csv.py** (+26, -0)
-- **get_loaders.py** (+202, -4)
+- **get_loaders.py** (+206, -18)
 
 ## Visualizations
 
@@ -23,8 +23,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 483
-".csv" : 104
+".py" : 501
+".csv" : 105
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,8 +33,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "10h" : 2
-"19h" : 12
+"19h" : 17
 ```
 
 
-> **Last Updated:** 04/05/2025, 19:40:19
+> **Last Updated:** 04/05/2025, 19:45:19
