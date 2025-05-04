@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-04",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 251,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/analyze_results.py": [
+          {
+            "timestamp": "2025-05-04T08:03:00.338Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/analyze_results.py",
+            "fileType": ".py",
+            "linesAdded": 234,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-04T08:03:37.961Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/analyze_results.py",
+            "fileType": ".py",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/analyze_results.py"
+      ],
+      "averageChangeSize": 125.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
