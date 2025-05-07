@@ -2,9 +2,9 @@
   "date": "2025-05-07",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 11315,
-      "totalLinesRemoved": 1741,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 12651,
+      "totalLinesRemoved": 3019,
+      "totalActiveTime": 43,
       "files": {
         "/Users/moky/Downloads/codes/compute.ipynb": [
           {
@@ -383,6 +383,118 @@
               "removed": []
             },
             "duration": 2,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:26:49.023Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:27:52.647Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 665,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:27:54.611Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:27:59.595Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:28:04.738Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:28:16.639Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 665,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:28:43.725Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 638,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T07:29:11.696Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 638,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "ipynb"
           }
         ]
