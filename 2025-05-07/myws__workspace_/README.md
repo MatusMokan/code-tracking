@@ -5,14 +5,14 @@
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
 | **Lines Added** (➕)   | 14666                                          |
-| **Lines Removed** (➖) | 3718                                        |
-| **Net Change** (↕)    | 10948                |
+| **Lines Removed** (➖) | 3735                                        |
+| **Net Change** (↕)    | 10931                |
 | **Active Time** (⌚)   | 87 minutes |
 
 
 ## Modified Files
 - **compute.ipynb** (+13512, -3655)
-- **00_non_visual.py** (+1154, -63)
+- **00_non_visual.py** (+1154, -80)
 
 ## Visualizations
 
@@ -22,7 +22,7 @@
 pie showData
 title Lines changed by file type
 ".ipynb" : 17167
-".py" : 1217
+".py" : 1234
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ title Coding activity by hour (count of changes)
 "08h" : 24
 "09h" : 14
 "15h" : 3
-"16h" : 21
+"16h" : 22
 ```
 
 
-> **Last Updated:** 07/05/2025, 16:22:34
+> **Last Updated:** 07/05/2025, 16:42:34
