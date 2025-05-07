@@ -1,0 +1,61 @@
+{
+  "date": "2025-05-07",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 37,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/Downloads/codes/compute.ipynb": [
+          {
+            "timestamp": "2025-05-07T05:59:51.260Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 34,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T05:59:54.729Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ]
+      },
+      "languageStats": {
+        "ipynb": 1
+      },
+      "changeFrequency": {
+        "7": 1
+      },
+      "topFiles": [
+        "/Users/moky/Downloads/codes/compute.ipynb"
+      ],
+      "averageChangeSize": 18.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    7
+  ],
+  "mostUsedLanguages": [
+    "ipynb"
+  ]
+}
