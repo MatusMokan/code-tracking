@@ -2,9 +2,9 @@
   "date": "2025-05-07",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 3592,
-      "totalLinesRemoved": 14,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 3606,
+      "totalLinesRemoved": 1740,
+      "totalActiveTime": 22,
       "files": {
         "/Users/moky/Downloads/codes/compute.ipynb": [
           {
@@ -166,6 +166,76 @@
             "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
             "fileType": ".ipynb",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T06:10:40.005Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 1726,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T06:10:43.713Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T06:10:47.812Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T06:11:02.823Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-05-07T06:11:06.116Z",
+            "fileName": "/Users/moky/Downloads/codes/compute.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 5,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
