@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 2627,
-      "totalLinesRemoved": 296,
-      "totalActiveTime": 61,
+      "totalLinesAdded": 2787,
+      "totalLinesRemoved": 413,
+      "totalActiveTime": 67,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -795,6 +795,62 @@
               "removed": []
             },
             "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-08T12:06:58.689Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/11_ridb_aug.py",
+            "fileType": ".py",
+            "linesAdded": 33,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-08T12:08:48.700Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/11_ridb_aug.py",
+            "fileType": ".py",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-08T12:11:24.614Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/11_ridb_aug.py",
+            "fileType": ".py",
+            "linesAdded": 117,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-08T12:11:27.115Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/11_ridb_aug.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 117,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
