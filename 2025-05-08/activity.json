@@ -2,9 +2,9 @@
   "date": "2025-05-08",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 2951,
+      "totalLinesAdded": 4160,
       "totalLinesRemoved": 473,
-      "totalActiveTime": 106,
+      "totalActiveTime": 107,
       "files": {
         "/Users/moky/School/4rocnik/DP/ImageReco/00_non_visual.py": [
           {
@@ -1376,6 +1376,36 @@
             "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/11_ridb_aug.py",
             "fileType": ".py",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/ImageReco/12_ridb_gen.py": [
+          {
+            "timestamp": "2025-05-08T18:28:44.903Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/12_ridb_gen.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-08T18:28:45.926Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/ImageReco/12_ridb_gen.py",
+            "fileType": ".py",
+            "linesAdded": 1208,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
