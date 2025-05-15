@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1714,
+      "totalLinesAdded": 1848,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 13,
+      "totalActiveTime": 14,
       "files": {
         "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/prepare_dataset_RIDB.py": [
           {
@@ -246,6 +246,36 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/biom-visual/requirments.txt": [
+          {
+            "timestamp": "2025-05-15T08:14:43.018Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/biom-visual/requirments.txt",
+            "fileType": ".txt",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "txt"
+          },
+          {
+            "timestamp": "2025-05-15T08:14:44.031Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/biom-visual/requirments.txt",
+            "fileType": ".txt",
+            "linesAdded": 133,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "txt"
           }
         ]
       },
