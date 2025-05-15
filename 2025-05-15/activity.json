@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 30,
+      "totalLinesAdded": 180,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 1,
       "files": {
         "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/prepare_dataset_RIDB.py": [
           {
@@ -19,6 +19,36 @@
               "removed": []
             },
             "duration": 0,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py": [
+          {
+            "timestamp": "2025-05-15T07:02:22.898Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py",
+            "fileType": ".py",
+            "linesAdded": 64,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-15T07:02:23.920Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/lwnet2/lwnet/run_predict_ridb_all.py",
+            "fileType": ".py",
+            "linesAdded": 86,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
             "language": "py"
           }
         ]
