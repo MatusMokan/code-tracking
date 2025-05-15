@@ -2,9 +2,9 @@
   "date": "2025-05-15",
   "projects": {
     "MyWS (Workspace)": {
-      "totalLinesAdded": 1529,
+      "totalLinesAdded": 1714,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 9,
+      "totalActiveTime": 13,
       "files": {
         "/Users/moky/School/4rocnik/DP/Retinal-Vessel-Segmentation/prepare_dataset_RIDB.py": [
           {
@@ -178,6 +178,66 @@
             "fileName": "/Users/moky/School/4rocnik/DP/biom-visual/test_auth.py",
             "fileType": ".py",
             "linesAdded": 468,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/biom-visual/utils/split_to_ttv.py": [
+          {
+            "timestamp": "2025-05-15T08:07:38.237Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/biom-visual/utils/split_to_ttv.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-15T08:07:39.249Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/biom-visual/utils/split_to_ttv.py",
+            "fileType": ".py",
+            "linesAdded": 72,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/School/4rocnik/DP/biom-visual/utils/resize.py": [
+          {
+            "timestamp": "2025-05-15T08:08:13.786Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/biom-visual/utils/resize.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-05-15T08:08:14.800Z",
+            "fileName": "/Users/moky/School/4rocnik/DP/biom-visual/utils/resize.py",
+            "fileType": ".py",
+            "linesAdded": 111,
             "linesRemoved": 0,
             "projectName": "MyWS (Workspace)",
             "content": {
