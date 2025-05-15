@@ -4,15 +4,20 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 180                                          |
+| **Lines Added** (➕)   | 1529                                          |
 | **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 180                |
-| **Active Time** (⌚)   | 1 minute |
+| **Net Change** (↕)    | 1529                |
+| **Active Time** (⌚)   | 9 minutes |
 
 
 ## Modified Files
 - **prepare_dataset_RIDB.py** (+30, -0)
 - **run_predict_ridb_all.py** (+150, -0)
+- **MyWS.code-workspace** (+83, -0)
+- **00_train_model.py** (+637, -0)
+- **auth_class.py** (+72, -0)
+- **config.yaml** (+88, -0)
+- **test_auth.py** (+469, -0)
 
 ## Visualizations
 
@@ -21,7 +26,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 180
+".py" : 1358
+".code-workspace" : 83
+".yaml" : 88
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -31,7 +38,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "08h" : 1
 "09h" : 2
+"10h" : 9
 ```
 
 
-> **Last Updated:** 15/05/2025, 09:02:33
+> **Last Updated:** 15/05/2025, 10:06:43
