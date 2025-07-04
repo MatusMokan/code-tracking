@@ -1,0 +1,75 @@
+{
+  "date": "2025-07-04",
+  "projects": {
+    "MyWS (Workspace)": {
+      "totalLinesAdded": 25,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
+      "files": {
+        "/Users/moky/School/4rocnik/UPB/Fiverr/rename.py": [
+          {
+            "timestamp": "2025-07-04T12:03:19.226Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/rename.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-04T12:03:20.235Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/rename.py",
+            "fileType": ".py",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-07-04T12:05:00.996Z",
+            "fileName": "/Users/moky/School/4rocnik/UPB/Fiverr/rename.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "MyWS (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 3
+      },
+      "changeFrequency": {
+        "14": 3
+      },
+      "topFiles": [
+        "/Users/moky/School/4rocnik/UPB/Fiverr/rename.py"
+      ],
+      "averageChangeSize": 8.666666666666666
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    14
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
