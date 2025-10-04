@@ -80,9 +80,9 @@
       "averageChangeSize": 4206.25
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 29919,
+      "totalLinesAdded": 34896,
       "totalLinesRemoved": 53,
-      "totalActiveTime": 57,
+      "totalActiveTime": 68,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -397,6 +397,76 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:05:51.655Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:06:02.528Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 32,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:06:03.869Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:08:07.537Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 4883,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:09:30.022Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ipynb"
           }
         ],
