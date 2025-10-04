@@ -80,9 +80,9 @@
       "averageChangeSize": 4206.25
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 4112,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 16,
+      "totalLinesAdded": 20774,
+      "totalLinesRemoved": 53,
+      "totalActiveTime": 51,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -244,6 +244,476 @@
             },
             "duration": 1,
             "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:57:13.638Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:57:27.786Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:58:01.657Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 49,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:58:06.259Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:58:24.266Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:58:36.183Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2344,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:58:38.385Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:58:43.631Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:32.685Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2025-03-18_2025-06-26_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:55:22.999Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2025-03-18_2025-06-26_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:19.200Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2025-03-18_2025-06-26_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1814,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/garmin.py": [
+          {
+            "timestamp": "2025-10-04T11:56:39.256Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-04T11:56:40.264Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.py",
+            "fileType": ".py",
+            "linesAdded": 29,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-04T11:57:07.596Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.py",
+            "fileType": ".py",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2023-11-04_2024-02-12_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:58:57.281Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-11-04_2024-02-12_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:58:58.302Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-11-04_2024-02-12_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1338,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2023-04-18_2023-07-27_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:01.184Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-04-18_2023-07-27_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:02.193Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-04-18_2023-07-27_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1484,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2023-01-08_2023-04-18_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:03.630Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-01-08_2023-04-18_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:04.665Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-01-08_2023-04-18_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 831,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2023-07-27_2023-11-04_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:08.792Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-07-27_2023-11-04_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:09.807Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2023-07-27_2023-11-04_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1326,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2024-02-12_2024-05-22_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:11.101Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-02-12_2024-05-22_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:12.111Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-02-12_2024-05-22_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1354,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2024-05-22_2024-08-30_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:12.763Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-05-22_2024-08-30_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:13.778Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-05-22_2024-08-30_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1441,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2024-08-30_2024-12-08_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:14.688Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-08-30_2024-12-08_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:15.736Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-08-30_2024-12-08_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1481,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2024-12-08_2025-03-18_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:16.571Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-12-08_2025-03-18_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:17.585Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2024-12-08_2025-03-18_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1494,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/sleep/2025-06-26_2025-10-04_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T11:59:19.830Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2025-06-26_2025-10-04_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T11:59:20.840Z",
+            "fileName": "/Users/moky/Desktop/test data/sleep/2025-06-26_2025-10-04_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1687,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
