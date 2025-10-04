@@ -80,7 +80,7 @@
       "averageChangeSize": 4206.25
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 3961,
+      "totalLinesAdded": 3985,
       "totalLinesRemoved": 0,
       "totalActiveTime": 9,
       "files": {
@@ -158,6 +158,22 @@
             },
             "duration": 1,
             "language": "py"
+          }
+        ],
+        "/Users/moky/Desktop/test data/garmin.ipynb": [
+          {
+            "timestamp": "2025-10-04T11:49:21.573Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 24,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
           }
         ]
       },
