@@ -1,0 +1,92 @@
+{
+  "date": "2025-10-04",
+  "projects": {
+    "test data": {
+      "totalLinesAdded": 16825,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 6,
+      "files": {
+        "/Users/moky/Desktop/test data/2025-03-18_2025-06-26_111308063_sleepData.json": [
+          {
+            "timestamp": "2025-10-04T09:23:54.425Z",
+            "fileName": "/Users/moky/Desktop/test data/2025-03-18_2025-06-26_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T09:23:55.438Z",
+            "fileName": "/Users/moky/Desktop/test data/2025-03-18_2025-06-26_111308063_sleepData.json",
+            "fileType": ".json",
+            "linesAdded": 1814,
+            "linesRemoved": 0,
+            "projectName": "test data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/UDSFile_2023-07-27_2023-11-04.json": [
+          {
+            "timestamp": "2025-10-04T09:27:46.864Z",
+            "fileName": "/Users/moky/Desktop/test data/UDSFile_2023-07-27_2023-11-04.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "test data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T09:27:47.877Z",
+            "fileName": "/Users/moky/Desktop/test data/UDSFile_2023-07-27_2023-11-04.json",
+            "fileType": ".json",
+            "linesAdded": 15009,
+            "linesRemoved": 0,
+            "projectName": "test data",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 6
+      },
+      "changeFrequency": {
+        "11": 6
+      },
+      "topFiles": [
+        "/Users/moky/Desktop/test data/2025-03-18_2025-06-26_111308063_sleepData.json",
+        "/Users/moky/Desktop/test data/UDSFile_2023-07-27_2023-11-04.json"
+      ],
+      "averageChangeSize": 4206.25
+    }
+  },
+  "totalActiveTime": 6,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
