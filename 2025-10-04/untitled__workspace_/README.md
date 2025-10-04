@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 288833                                          |
+| **Lines Added** (➕)   | 289227                                          |
 | **Lines Removed** (➖) | 67427                                        |
-| **Net Change** (↕)    | 221406                |
-| **Active Time** (⌚)   | 229 minutes |
+| **Net Change** (↕)    | 221800                |
+| **Active Time** (⌚)   | 230 minutes |
 
 
 ## Modified Files
@@ -30,6 +30,7 @@
 - **UDSFile_2025-03-19_2025-06-27.json** (+33596, -0)
 - **2025-06-28_2025-10-06_125740581_sleepData.json** (+3337, -0)
 - **UDSFile_2024-12-09_2025-03-19.json** (+34600, -0)
+- **garmin copy.py** (+394, -0)
 
 ## Visualizations
 
@@ -39,7 +40,7 @@
 pie showData
 title Lines changed by file type
 ".json" : 94516
-".py" : 5323
+".py" : 5717
 ".ipynb" : 256421
 ```
 
@@ -52,8 +53,8 @@ title Coding activity by hour (count of changes)
 "14h" : 19
 "17h" : 58
 "18h" : 54
-"19h" : 2
+"19h" : 4
 ```
 
 
-> **Last Updated:** 04/10/2025, 19:16:58
+> **Last Updated:** 04/10/2025, 19:36:58
