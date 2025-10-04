@@ -81,8 +81,8 @@
     },
     "Untitled (Workspace)": {
       "totalLinesAdded": 190458,
-      "totalLinesRemoved": 37206,
-      "totalActiveTime": 160,
+      "totalLinesRemoved": 37208,
+      "totalActiveTime": 162,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -1293,6 +1293,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T16:08:04.431Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "ipynb"
           }
         ],
