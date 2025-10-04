@@ -80,9 +80,9 @@
       "averageChangeSize": 4206.25
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 20774,
+      "totalLinesAdded": 29919,
       "totalLinesRemoved": 53,
-      "totalActiveTime": 51,
+      "totalActiveTime": 57,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -362,6 +362,34 @@
             "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
             "fileType": ".ipynb",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:00:07.100Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:00:09.763Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 427,
             "linesRemoved": 0,
             "projectName": "Untitled (Workspace)",
             "content": {
@@ -706,6 +734,36 @@
             "fileName": "/Users/moky/Desktop/test data/sleep/2025-06-26_2025-10-04_111308063_sleepData.json",
             "fileType": ".json",
             "linesAdded": 1687,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/Desktop/test data/USD/UDSFile_2023-01-08_2023-04-18.json": [
+          {
+            "timestamp": "2025-10-04T12:02:28.904Z",
+            "fileName": "/Users/moky/Desktop/test data/USD/UDSFile_2023-01-08_2023-04-18.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-04T12:02:29.916Z",
+            "fileName": "/Users/moky/Desktop/test data/USD/UDSFile_2023-01-08_2023-04-18.json",
+            "fileType": ".json",
+            "linesAdded": 8707,
             "linesRemoved": 0,
             "projectName": "Untitled (Workspace)",
             "content": {

@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 20774                                          |
+| **Lines Added** (➕)   | 29919                                          |
 | **Lines Removed** (➖) | 53                                        |
-| **Net Change** (↕)    | 20721                |
-| **Active Time** (⌚)   | 51 minutes |
+| **Net Change** (↕)    | 29866                |
+| **Active Time** (⌚)   | 57 minutes |
 
 
 ## Modified Files
 - **workspace.json** (+15, -0)
 - **example.py** (+355, -0)
 - **demo.py** (+3591, -0)
-- **garmin.ipynb** (+2512, -53)
+- **garmin.ipynb** (+2949, -53)
 - **2025-03-18_2025-06-26_111308063_sleepData.json** (+1815, -0)
 - **garmin.py** (+41, -0)
 - **2023-11-04_2024-02-12_111308063_sleepData.json** (+1339, -0)
@@ -26,6 +26,7 @@
 - **2024-08-30_2024-12-08_111308063_sleepData.json** (+1482, -0)
 - **2024-12-08_2025-03-18_111308063_sleepData.json** (+1495, -0)
 - **2025-06-26_2025-10-04_111308063_sleepData.json** (+1688, -0)
+- **UDSFile_2023-01-08_2023-04-18.json** (+8708, -0)
 
 ## Visualizations
 
@@ -34,9 +35,9 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".json" : 14275
+".json" : 22983
 ".py" : 3987
-".ipynb" : 2565
+".ipynb" : 3002
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -45,7 +46,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "13h" : 43
+"14h" : 4
 ```
 
 
-> **Last Updated:** 04/10/2025, 13:59:58
+> **Last Updated:** 04/10/2025, 14:04:58
