@@ -80,9 +80,9 @@
       "averageChangeSize": 4206.25
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 34896,
-      "totalLinesRemoved": 53,
-      "totalActiveTime": 68,
+      "totalLinesAdded": 43440,
+      "totalLinesRemoved": 73,
+      "totalActiveTime": 75,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -468,6 +468,48 @@
             },
             "duration": 2,
             "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:13:00.413Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:13:14.166Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-04T12:13:17.799Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 8303,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
           }
         ],
         "/Users/moky/Desktop/test data/sleep/2025-03-18_2025-06-26_111308063_sleepData.json": [
@@ -541,6 +583,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-04T12:11:16.707Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.py",
+            "fileType": ".py",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-04T12:12:40.573Z",
+            "fileName": "/Users/moky/Desktop/test data/garmin.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 20,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
             "language": "py"
           }
         ],
