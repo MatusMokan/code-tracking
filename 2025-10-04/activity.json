@@ -80,9 +80,9 @@
       "averageChangeSize": 4206.25
     },
     "Untitled (Workspace)": {
-      "totalLinesAdded": 370,
+      "totalLinesAdded": 3961,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 6,
+      "totalActiveTime": 9,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -120,6 +120,36 @@
             "fileName": "/Users/moky/Desktop/connect/garmin-connect-export/example.py",
             "fileType": ".py",
             "linesAdded": 354,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/Desktop/connect/garmin-connect-export/demo.py": [
+          {
+            "timestamp": "2025-10-04T11:11:41.698Z",
+            "fileName": "/Users/moky/Desktop/connect/garmin-connect-export/demo.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-04T11:11:42.707Z",
+            "fileName": "/Users/moky/Desktop/connect/garmin-connect-export/demo.py",
+            "fileType": ".py",
+            "linesAdded": 3590,
             "linesRemoved": 0,
             "projectName": "Untitled (Workspace)",
             "content": {
