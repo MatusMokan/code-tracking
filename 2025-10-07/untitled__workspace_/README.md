@@ -4,16 +4,16 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 101919                                          |
-| **Lines Removed** (➖) | 37499                                        |
-| **Net Change** (↕)    | 64420                |
-| **Active Time** (⌚)   | 86 minutes |
+| **Lines Added** (➕)   | 101922                                          |
+| **Lines Removed** (➖) | 51196                                        |
+| **Net Change** (↕)    | 50726                |
+| **Active Time** (⌚)   | 88 minutes |
 
 
 ## Modified Files
 - **garminOld.py** (+171, -167)
 - **garmin.ipynb** (+28672, -27379)
-- **pice.ipynb** (+73076, -9953)
+- **pice.ipynb** (+73079, -23650)
 
 ## Visualizations
 
@@ -23,7 +23,7 @@
 pie showData
 title Lines changed by file type
 ".py" : 338
-".ipynb" : 139080
+".ipynb" : 152780
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -33,7 +33,8 @@ pie showData
 title Coding activity by hour (count of changes)
 "19h" : 9
 "22h" : 72
+"23h" : 3
 ```
 
 
-> **Last Updated:** 07/10/2025, 23:02:00
+> **Last Updated:** 07/10/2025, 23:30:55

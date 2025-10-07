@@ -2,9 +2,9 @@
   "date": "2025-10-07",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 101919,
-      "totalLinesRemoved": 37499,
-      "totalActiveTime": 86,
+      "totalLinesAdded": 101922,
+      "totalLinesRemoved": 51196,
+      "totalActiveTime": 88,
       "files": {
         "/Users/moky/Desktop/test data/garminOld.py": [
           {
@@ -1136,6 +1136,48 @@
             "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
             "fileType": ".ipynb",
             "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T21:12:27.292Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 10,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T21:12:48.960Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 13687,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T21:13:25.255Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 3,
             "linesRemoved": 0,
             "projectName": "Untitled (Workspace)",
             "content": {
