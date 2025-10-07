@@ -4,14 +4,14 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 28739                                          |
-| **Lines Removed** (➖) | 27417                                        |
-| **Net Change** (↕)    | 1322                |
-| **Active Time** (⌚)   | 27 minutes |
+| **Lines Added** (➕)   | 28770                                          |
+| **Lines Removed** (➖) | 27477                                        |
+| **Net Change** (↕)    | 1293                |
+| **Active Time** (⌚)   | 29 minutes |
 
 
 ## Modified Files
-- **garminOld.py** (+67, -38)
+- **garminOld.py** (+98, -98)
 - **garmin.ipynb** (+28672, -27379)
 
 ## Visualizations
@@ -21,7 +21,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 105
+".py" : 196
 ".ipynb" : 56051
 ```
 
@@ -31,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "19h" : 9
-"22h" : 19
+"22h" : 22
 ```
 
 
-> **Last Updated:** 07/10/2025, 22:32:00
+> **Last Updated:** 07/10/2025, 22:37:00
