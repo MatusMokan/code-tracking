@@ -2,9 +2,9 @@
   "date": "2025-10-07",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 90125,
-      "totalLinesRemoved": 27750,
-      "totalActiveTime": 72,
+      "totalLinesAdded": 101908,
+      "totalLinesRemoved": 37499,
+      "totalActiveTime": 81,
       "files": {
         "/Users/moky/Desktop/test data/garminOld.py": [
           {
@@ -1011,6 +1011,104 @@
             "fileType": ".ipynb",
             "linesAdded": 8,
             "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T20:53:15.703Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T20:53:21.193Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T20:53:54.515Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 998,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T20:54:23.521Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 10697,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T20:54:30.337Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 6,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T20:54:51.211Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-10-07T20:55:14.845Z",
+            "fileName": "/Users/moky/Desktop/test data/pice.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 0,
+            "linesRemoved": 9743,
             "projectName": "Untitled (Workspace)",
             "content": {
               "added": [],
