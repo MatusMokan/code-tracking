@@ -2,9 +2,9 @@
   "date": "2025-10-08",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 217,
+      "totalLinesAdded": 227,
       "totalLinesRemoved": 43,
-      "totalActiveTime": 40,
+      "totalActiveTime": 44,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -429,6 +429,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-10-08T19:34:42.649Z",
+            "fileName": "/Users/moky/Desktop/GarminCoach/history/marathon-plan.json",
+            "fileType": ".json",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
             "language": "json"
           }
         ]
