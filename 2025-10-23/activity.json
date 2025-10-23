@@ -1,0 +1,47 @@
+{
+  "date": "2025-10-23",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 4,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/Desktop/test data/garminOld.py": [
+          {
+            "timestamp": "2025-10-23T15:21:14.650Z",
+            "fileName": "/Users/moky/Desktop/test data/garminOld.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/moky/Desktop/test data/garminOld.py"
+      ],
+      "averageChangeSize": 4
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
