@@ -1,0 +1,61 @@
+{
+  "date": "2025-10-25",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 131,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/Desktop/GarminCoach/clusty.py": [
+          {
+            "timestamp": "2025-10-25T10:39:07.839Z",
+            "fileName": "/Users/moky/Desktop/GarminCoach/clusty.py",
+            "fileType": ".py",
+            "linesAdded": 123,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-25T10:39:09.322Z",
+            "fileName": "/Users/moky/Desktop/GarminCoach/clusty.py",
+            "fileType": ".py",
+            "linesAdded": 8,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1
+      },
+      "changeFrequency": {
+        "12": 1
+      },
+      "topFiles": [
+        "/Users/moky/Desktop/GarminCoach/clusty.py"
+      ],
+      "averageChangeSize": 65.5
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    12
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
