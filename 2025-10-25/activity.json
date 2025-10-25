@@ -3,7 +3,7 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 131,
-      "totalLinesRemoved": 0,
+      "totalLinesRemoved": 2,
       "totalActiveTime": 1,
       "files": {
         "/Users/moky/Desktop/GarminCoach/clusty.py": [
@@ -33,6 +33,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-10-25T10:47:01.321Z",
+            "fileName": "/Users/moky/Desktop/GarminCoach/clusty.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 2,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
             "language": "py"
           }
         ]
