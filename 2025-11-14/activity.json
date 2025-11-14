@@ -1,0 +1,80 @@
+{
+  "date": "2025-11-14",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 88,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
+          {
+            "timestamp": "2025-11-14T20:52:52.162Z",
+            "fileName": "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json",
+            "fileType": ".json",
+            "linesAdded": 21,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ],
+        "/Users/moky/PythonProjects/OpenAIAPI/test.py": [
+          {
+            "timestamp": "2025-11-14T20:53:11.914Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-14T20:53:12.937Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.py",
+            "fileType": ".py",
+            "linesAdded": 66,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0,
+        "py": 2
+      },
+      "changeFrequency": {
+        "21": 2
+      },
+      "topFiles": [
+        "/Users/moky/PythonProjects/OpenAIAPI/test.py",
+        "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json"
+      ],
+      "averageChangeSize": 29.333333333333332
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 2,
+  "mostActiveHours": [
+    21
+  ],
+  "mostUsedLanguages": [
+    "py",
+    "json"
+  ]
+}
