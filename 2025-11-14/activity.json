@@ -2,9 +2,9 @@
   "date": "2025-11-14",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 280,
-      "totalLinesRemoved": 13,
-      "totalActiveTime": 13,
+      "totalLinesAdded": 544,
+      "totalLinesRemoved": 159,
+      "totalActiveTime": 23,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -162,6 +162,48 @@
             },
             "duration": 1,
             "language": "py"
+          },
+          {
+            "timestamp": "2025-11-14T21:21:10.610Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.py",
+            "fileType": ".py",
+            "linesAdded": 118,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-14T21:21:13.972Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-14T21:21:21.868Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 146,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ],
         "/Users/moky/PythonProjects/OpenAIAPI/config.py": [
@@ -178,6 +220,36 @@
             },
             "duration": 0,
             "language": "py"
+          }
+        ],
+        "/Users/moky/PythonProjects/OpenAIAPI/test.json": [
+          {
+            "timestamp": "2025-11-14T21:17:02.085Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.json",
+            "fileType": ".json",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-11-14T21:17:03.103Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.json",
+            "fileType": ".json",
+            "linesAdded": 144,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "json"
           }
         ]
       },
