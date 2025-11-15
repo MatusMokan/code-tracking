@@ -3,8 +3,8 @@
   "projects": {
     "Untitled (Workspace)": {
       "totalLinesAdded": 576,
-      "totalLinesRemoved": 281,
-      "totalActiveTime": 14,
+      "totalLinesRemoved": 428,
+      "totalActiveTime": 19,
       "files": {
         "/Users/moky/PythonProjects/OpenAIAPI/test.py": [
           {
@@ -231,6 +231,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-15T08:11:36.431Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/mistral.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 147,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ]
