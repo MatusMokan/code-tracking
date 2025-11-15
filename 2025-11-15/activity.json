@@ -2,9 +2,9 @@
   "date": "2025-11-15",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 616,
+      "totalLinesAdded": 980,
       "totalLinesRemoved": 438,
-      "totalActiveTime": 28,
+      "totalActiveTime": 40,
       "files": {
         "/Users/moky/PythonProjects/OpenAIAPI/test.py": [
           {
@@ -330,6 +330,96 @@
             },
             "duration": 2,
             "language": "py"
+          }
+        ],
+        "/Users/moky/PythonProjects/OpenAIAPI/config.py": [
+          {
+            "timestamp": "2025-11-15T08:37:25.401Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/config.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/PythonProjects/OpenAIAPI/document_understanding.ipynb": [
+          {
+            "timestamp": "2025-11-15T08:38:15.795Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/document_understanding.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 331,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-11-15T08:38:43.735Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/document_understanding.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-11-15T08:39:31.765Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/document_understanding.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ],
+        "/Users/moky/PythonProjects/OpenAIAPI/test.ipynb": [
+          {
+            "timestamp": "2025-11-15T08:42:08.888Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-11-15T08:42:10.675Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 26,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
           }
         ]
       },
