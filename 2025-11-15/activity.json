@@ -2,9 +2,9 @@
   "date": "2025-11-15",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 2967,
+      "totalLinesAdded": 2974,
       "totalLinesRemoved": 875,
-      "totalActiveTime": 86,
+      "totalActiveTime": 92,
       "files": {
         "/Users/moky/PythonProjects/OpenAIAPI/test.py": [
           {
@@ -1073,6 +1073,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-15T11:08:16.593Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-15T11:10:57.612Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/to_excel.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ]
