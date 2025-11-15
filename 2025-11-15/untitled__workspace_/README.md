@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 1833                                          |
+| **Lines Added** (➕)   | 1922                                          |
 | **Lines Removed** (➖) | 442                                        |
-| **Net Change** (↕)    | 1391                |
-| **Active Time** (⌚)   | 59 minutes |
+| **Net Change** (↕)    | 1480                |
+| **Active Time** (⌚)   | 63 minutes |
 
 
 ## Modified Files
@@ -17,6 +17,7 @@
 - **document_understanding.ipynb** (+336, -0)
 - **test.ipynb** (+517, -4)
 - **test2.py** (+363, -0)
+- **extract_pdf_to_markdown.py** (+89, -0)
 
 ## Visualizations
 
@@ -25,7 +26,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 1418
+".py" : 1507
 ".ipynb" : 857
 ```
 
@@ -35,8 +36,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "08h" : 11
-"09h" : 31
+"09h" : 36
 ```
 
 
-> **Last Updated:** 15/11/2025, 09:52:15
+> **Last Updated:** 15/11/2025, 09:57:15
