@@ -4,10 +4,10 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2953                                          |
+| **Lines Added** (➕)   | 2967                                          |
 | **Lines Removed** (➖) | 875                                        |
-| **Net Change** (↕)    | 2078                |
-| **Active Time** (⌚)   | 85 minutes |
+| **Net Change** (↕)    | 2092                |
+| **Active Time** (⌚)   | 86 minutes |
 
 
 ## Modified Files
@@ -20,7 +20,7 @@
 - **extract_pdf_to_markdown.py** (+93, -8)
 - **extract_json_from_md.py** (+385, -280)
 - **instruction.py** (+583, -145)
-- **to_excel.py** (+55, -0)
+- **to_excel.py** (+69, -0)
 
 ## Visualizations
 
@@ -29,7 +29,7 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 2971
+".py" : 2985
 ".ipynb" : 857
 ```
 
@@ -42,7 +42,8 @@ title Coding activity by hour (count of changes)
 "09h" : 36
 "10h" : 2
 "11h" : 24
+"12h" : 2
 ```
 
 
-> **Last Updated:** 15/11/2025, 12:02:16
+> **Last Updated:** 15/11/2025, 12:07:16
