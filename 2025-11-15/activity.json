@@ -2,9 +2,9 @@
   "date": "2025-11-15",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 78,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 9,
+      "totalLinesAdded": 576,
+      "totalLinesRemoved": 281,
+      "totalActiveTime": 14,
       "files": {
         "/Users/moky/PythonProjects/OpenAIAPI/test.py": [
           {
@@ -152,6 +152,78 @@
             "fileName": "/Users/moky/PythonProjects/OpenAIAPI/test.py",
             "fileType": ".py",
             "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/PythonProjects/OpenAIAPI/mistral.py": [
+          {
+            "timestamp": "2025-11-15T08:05:11.021Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/mistral.py",
+            "fileType": ".py",
+            "linesAdded": 487,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-15T08:05:12.086Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/mistral.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 280,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-15T08:05:27.777Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/mistral.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-15T08:07:08.934Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/mistral.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-15T08:07:15.743Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/mistral.py",
+            "fileType": ".py",
+            "linesAdded": 4,
             "linesRemoved": 0,
             "projectName": "Untitled (Workspace)",
             "content": {
