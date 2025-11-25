@@ -2,9 +2,9 @@
   "date": "2025-11-25",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 24,
+      "totalLinesAdded": 2356,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalActiveTime": 3,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -20,6 +20,66 @@
             },
             "duration": 0,
             "language": "json"
+          }
+        ],
+        "/Users/moky/PythonProjects/workshops-main/agents-mcp/notebook.ipynb": [
+          {
+            "timestamp": "2025-11-25T08:13:04.656Z",
+            "fileName": "/Users/moky/PythonProjects/workshops-main/agents-mcp/notebook.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2327,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "ipynb"
+          },
+          {
+            "timestamp": "2025-11-25T08:13:06.327Z",
+            "fileName": "/Users/moky/PythonProjects/workshops-main/agents-mcp/notebook.ipynb",
+            "fileType": ".ipynb",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "ipynb"
+          }
+        ],
+        "/Users/moky/PythonProjects/OpenAIAPI/config.py": [
+          {
+            "timestamp": "2025-11-25T08:13:19.095Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/config.py",
+            "fileType": ".py",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-25T08:13:20.540Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/config.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
