@@ -2,9 +2,9 @@
   "date": "2025-11-25",
   "projects": {
     "Untitled (Workspace)": {
-      "totalLinesAdded": 2374,
+      "totalLinesAdded": 2395,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 4,
+      "totalActiveTime": 12,
       "files": {
         "/Users/moky/Library/Application Support/Code/Workspaces/1759575893059/workspace.json": [
           {
@@ -109,6 +109,34 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-25T13:15:35.075Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/johitest.py",
+            "fileType": ".py",
+            "linesAdded": 17,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-11-25T13:19:44.516Z",
+            "fileName": "/Users/moky/PythonProjects/OpenAIAPI/johitest.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 5,
             "language": "py"
           }
         ]
