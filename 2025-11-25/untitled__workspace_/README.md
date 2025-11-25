@@ -4,17 +4,17 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 2397                                          |
-| **Lines Removed** (➖) | 0                                        |
-| **Net Change** (↕)    | 2397                |
-| **Active Time** (⌚)   | 16 minutes |
+| **Lines Added** (➕)   | 2403                                          |
+| **Lines Removed** (➖) | 3                                        |
+| **Net Change** (↕)    | 2400                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
 - **workspace.json** (+24, -0)
 - **notebook.ipynb** (+2329, -0)
 - **config.py** (+3, -0)
-- **johitest.py** (+41, -0)
+- **johitest.py** (+47, -3)
 
 ## Visualizations
 
@@ -25,7 +25,7 @@ pie showData
 title Lines changed by file type
 ".json" : 24
 ".ipynb" : 2329
-".py" : 44
+".py" : 53
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -34,8 +34,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "09h" : 5
-"14h" : 5
+"14h" : 7
 ```
 
 
-> **Last Updated:** 25/11/2025, 14:25:07
+> **Last Updated:** 25/11/2025, 15:00:07
