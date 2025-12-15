@@ -1,0 +1,47 @@
+{
+  "date": "2025-12-15",
+  "projects": {
+    "Untitled (Workspace)": {
+      "totalLinesAdded": 370,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/Downloads/mapa.py": [
+          {
+            "timestamp": "2025-12-15T17:17:29.730Z",
+            "fileName": "/Users/moky/Downloads/mapa.py",
+            "fileType": ".py",
+            "linesAdded": 370,
+            "linesRemoved": 0,
+            "projectName": "Untitled (Workspace)",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "18": 0
+      },
+      "topFiles": [
+        "/Users/moky/Downloads/mapa.py"
+      ],
+      "averageChangeSize": 370
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    18
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
