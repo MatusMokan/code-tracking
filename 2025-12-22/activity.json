@@ -2,9 +2,9 @@
   "date": "2025-12-22",
   "projects": {
     "Kartogramy": {
-      "totalLinesAdded": 486,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalLinesAdded": 487,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 3,
       "files": {
         "/Users/moky/PythonProjects/Kartogramy/mapa.py": [
           {
@@ -37,6 +37,34 @@
           },
           {
             "timestamp": "2025-12-22T15:01:30.164Z",
+            "fileName": "/Users/moky/PythonProjects/Kartogramy/mapa.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Kartogramy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-12-22T15:37:58.400Z",
+            "fileName": "/Users/moky/PythonProjects/Kartogramy/mapa.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "Kartogramy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-12-22T15:38:02.740Z",
             "fileName": "/Users/moky/PythonProjects/Kartogramy/mapa.py",
             "fileType": ".py",
             "linesAdded": 1,
