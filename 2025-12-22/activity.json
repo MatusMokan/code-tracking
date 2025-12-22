@@ -1,0 +1,75 @@
+{
+  "date": "2025-12-22",
+  "projects": {
+    "Kartogramy": {
+      "totalLinesAdded": 486,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "/Users/moky/PythonProjects/Kartogramy/mapa.py": [
+          {
+            "timestamp": "2025-12-22T15:00:45.012Z",
+            "fileName": "/Users/moky/PythonProjects/Kartogramy/mapa.py",
+            "fileType": ".py",
+            "linesAdded": 481,
+            "linesRemoved": 0,
+            "projectName": "Kartogramy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-12-22T15:00:45.071Z",
+            "fileName": "/Users/moky/PythonProjects/Kartogramy/mapa.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "Kartogramy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-12-22T15:01:30.164Z",
+            "fileName": "/Users/moky/PythonProjects/Kartogramy/mapa.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "Kartogramy",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "16": 2
+      },
+      "topFiles": [
+        "/Users/moky/PythonProjects/Kartogramy/mapa.py"
+      ],
+      "averageChangeSize": 162
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    16
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
