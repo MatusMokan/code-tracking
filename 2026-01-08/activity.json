@@ -2,9 +2,9 @@
   "date": "2026-01-08",
   "projects": {
     "TestUploadDovera": {
-      "totalLinesAdded": 422,
-      "totalLinesRemoved": 1,
-      "totalActiveTime": 35,
+      "totalLinesAdded": 423,
+      "totalLinesRemoved": 2,
+      "totalActiveTime": 39,
       "files": {
         "/Users/moky/PythonProjects/TestUploadDovera/tests/smoke/test_traffic.py": [
           {
@@ -397,6 +397,34 @@
           },
           {
             "timestamp": "2026-01-08T06:58:16.928Z",
+            "fileName": "/Users/moky/PythonProjects/TestUploadDovera/.env",
+            "fileType": "unknown",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "TestUploadDovera",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-01-08T07:01:05.361Z",
+            "fileName": "/Users/moky/PythonProjects/TestUploadDovera/.env",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "TestUploadDovera",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-01-08T07:01:24.017Z",
             "fileName": "/Users/moky/PythonProjects/TestUploadDovera/.env",
             "fileType": "unknown",
             "linesAdded": 0,
