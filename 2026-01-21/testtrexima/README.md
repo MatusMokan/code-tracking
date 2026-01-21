@@ -4,14 +4,15 @@
 
 | Stat                   | Value                                                             |
 | ---------------------- | ----------------------------------------------------------------- |
-| **Lines Added** (➕)   | 230                                          |
-| **Lines Removed** (➖) | 93                                        |
-| **Net Change** (↕)    | 137                |
-| **Active Time** (⌚)   | 12 minutes |
+| **Lines Added** (➕)   | 4163                                          |
+| **Lines Removed** (➖) | 109                                        |
+| **Net Change** (↕)    | 4054                |
+| **Active Time** (⌚)   | 18 minutes |
 
 
 ## Modified Files
-- **create_salary_graph.py** (+230, -93)
+- **create_salary_graph.py** (+275, -109)
+- **salary_graph.html** (+3888, -0)
 
 ## Visualizations
 
@@ -20,7 +21,8 @@
 ```mermaid
 pie showData
 title Lines changed by file type
-".py" : 323
+".py" : 384
+".html" : 3888
 ```
 
 ### By Hour (Estimated Activity Count)
@@ -29,8 +31,8 @@ title Lines changed by file type
 pie showData
 title Coding activity by hour (count of changes)
 "17h" : 6
-"18h" : 3
+"18h" : 8
 ```
 
 
-> **Last Updated:** 21/01/2026, 18:16:42
+> **Last Updated:** 21/01/2026, 18:36:42
