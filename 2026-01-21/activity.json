@@ -1,0 +1,47 @@
+{
+  "date": "2026-01-21",
+  "projects": {
+    "TestTrexima": {
+      "totalLinesAdded": 42,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "/Users/moky/PythonProjects/TestTrexima/create_salary_graph.py": [
+          {
+            "timestamp": "2026-01-21T16:33:24.653Z",
+            "fileName": "/Users/moky/PythonProjects/TestTrexima/create_salary_graph.py",
+            "fileType": ".py",
+            "linesAdded": 42,
+            "linesRemoved": 0,
+            "projectName": "TestTrexima",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 0
+      },
+      "changeFrequency": {
+        "17": 0
+      },
+      "topFiles": [
+        "/Users/moky/PythonProjects/TestTrexima/create_salary_graph.py"
+      ],
+      "averageChangeSize": 42
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    17
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
