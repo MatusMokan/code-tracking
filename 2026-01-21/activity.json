@@ -3,8 +3,8 @@
   "projects": {
     "TestTrexima": {
       "totalLinesAdded": 142,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 3,
+      "totalLinesRemoved": 67,
+      "totalActiveTime": 5,
       "files": {
         "/Users/moky/PythonProjects/TestTrexima/create_salary_graph.py": [
           {
@@ -55,6 +55,20 @@
             "fileType": ".py",
             "linesAdded": 18,
             "linesRemoved": 0,
+            "projectName": "TestTrexima",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-21T16:52:22.826Z",
+            "fileName": "/Users/moky/PythonProjects/TestTrexima/create_salary_graph.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 67,
             "projectName": "TestTrexima",
             "content": {
               "added": [],
