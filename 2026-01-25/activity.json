@@ -2,9 +2,9 @@
   "date": "2026-01-25",
   "projects": {
     "TestTrexima": {
-      "totalLinesAdded": 3888,
-      "totalLinesRemoved": 0,
-      "totalActiveTime": 0,
+      "totalLinesAdded": 4192,
+      "totalLinesRemoved": 50,
+      "totalActiveTime": 9,
       "files": {
         "/Users/moky/PythonProjects/TestTrexima/salary_graph.html": [
           {
@@ -20,6 +20,66 @@
             },
             "duration": 0,
             "language": "html"
+          }
+        ],
+        "/Users/moky/PythonProjects/TestTrexima/create_salary_graph.py": [
+          {
+            "timestamp": "2026-01-25T18:41:18.067Z",
+            "fileName": "/Users/moky/PythonProjects/TestTrexima/create_salary_graph.py",
+            "fileType": ".py",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "TestTrexima",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ],
+        "/Users/moky/PythonProjects/TestTrexima/generate_salary_data.py": [
+          {
+            "timestamp": "2026-01-25T18:45:02.024Z",
+            "fileName": "/Users/moky/PythonProjects/TestTrexima/generate_salary_data.py",
+            "fileType": ".py",
+            "linesAdded": 76,
+            "linesRemoved": 0,
+            "projectName": "TestTrexima",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-25T18:45:03.040Z",
+            "fileName": "/Users/moky/PythonProjects/TestTrexima/generate_salary_data.py",
+            "fileType": ".py",
+            "linesAdded": 50,
+            "linesRemoved": 0,
+            "projectName": "TestTrexima",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2026-01-25T18:45:58.006Z",
+            "fileName": "/Users/moky/PythonProjects/TestTrexima/generate_salary_data.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 50,
+            "projectName": "TestTrexima",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
