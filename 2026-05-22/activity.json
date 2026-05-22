@@ -1,0 +1,61 @@
+{
+  "date": "2026-05-22",
+  "projects": {
+    "TestUploadDovera": {
+      "totalLinesAdded": 28,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "/Users/moky/PythonProjects/TestUploadDovera/chatbot/prompt5md": [
+          {
+            "timestamp": "2026-05-22T08:42:19.891Z",
+            "fileName": "/Users/moky/PythonProjects/TestUploadDovera/chatbot/prompt5md",
+            "fileType": "unknown",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "TestUploadDovera",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "unknown"
+          },
+          {
+            "timestamp": "2026-05-22T08:42:21.341Z",
+            "fileName": "/Users/moky/PythonProjects/TestUploadDovera/chatbot/prompt5md",
+            "fileType": "unknown",
+            "linesAdded": 27,
+            "linesRemoved": 0,
+            "projectName": "TestUploadDovera",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "unknown"
+          }
+        ]
+      },
+      "languageStats": {
+        "unknown": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "/Users/moky/PythonProjects/TestUploadDovera/chatbot/prompt5md"
+      ],
+      "averageChangeSize": 14
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "unknown"
+  ]
+}
